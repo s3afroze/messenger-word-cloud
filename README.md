@@ -1,4 +1,5 @@
-# messenger-word-cloud
+# Creating word cloud using facebook chat data
+
 This short script will show how to create a word cloud within 5 minuites.
 
 Steps to follow:
