@@ -1,10 +1,7 @@
 ### Visualisation of messenger chat
 
-This short script will show how to create a word cloud within 5 minuites.
 
-Steps to follow:
-
-Follow the instructions here to download the data from Facebook. It is to be noted that this might take upto 30 minuites.
+Follow the instructions [here](https://www.zapptales.com/en/download-facebook-messenger-chat-history-how-to/) to download messenger data.
 
 Go to messages and then inbox folder.
 
